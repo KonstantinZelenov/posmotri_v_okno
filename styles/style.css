@@ -162,7 +162,7 @@ input[type="checkbox"]:checked + span {
   display: flex;
   flex-direction: column;
   gap: 34px;
-  max-height: 298px;
+  height: 298px;
   padding-top: 2px;
   overflow-y: auto;
 }
